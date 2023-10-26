@@ -3,7 +3,7 @@ not just any random quote generator web Application , here you can generate new 
 
 
  ->*How to link your Twitter(X) to your project ??*
-->  (href="https://twitter.com/intent/tweet?text=Hello%20world") copy this link and remove the "Hello%20world" 
+->  href="https://twitter.com/intent/tweet?text=Hello%20world" copy this link and remove the "Hello%20world" 
 and add your own variable where you have stored your own api call.
 and see the magic 
 

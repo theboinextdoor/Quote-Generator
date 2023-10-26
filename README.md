@@ -15,4 +15,4 @@ and see the magic
 2.  got to Tweet function i.e. tweet()
 3.  paste it on window.open(......)
 
-*****************************************and don't forget to smile*********************************************************** 
+*and don't forget to smile* 
